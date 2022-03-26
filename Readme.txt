@@ -1,13 +1,13 @@
-*Sirius tool Import Files*
+**Sirius tool Import Files**
 
 Census.zip contains: Census, Census.edit, Census.editor
 censis.zip contains: censis, censis.design
 (censis.design contains the icon folder)
 
-*Plug-in*
+***Plug-in***
 
 citymodel.zip is the plug-in.
 
-*Other files*
+***Other files***
 
 User Manual.pdf - The User Manual for MFPMU
